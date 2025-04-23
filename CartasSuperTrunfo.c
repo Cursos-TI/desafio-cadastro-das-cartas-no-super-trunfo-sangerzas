@@ -43,7 +43,7 @@ int main() {
 // Input Carta 2
 
     printf("\nInsira a seguir as imformacoes da Carta 2 \n");
-    printf("Digite a letra inicial do estado de A a H:");
+    printf("Digite o nome do estado:");
     scanf(" %s", estado2);
 
     printf("Difina o codigo unico da carta utilizando letras de A a H e numeros de 01 a 04(Exemplo: F02): ");
